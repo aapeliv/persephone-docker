@@ -16,7 +16,7 @@ For more information on minimum versions see the [Docker official compatibility 
 
 ### installing a newer docker-compose
 
-If you are on Linux and have an out of date docker-compose we suggest installing it as a user package suing pip.
+If you are on Linux and have an out of date docker-compose we suggest installing it as a user package using pip.
 
 First create a virtualenvironment:
 
